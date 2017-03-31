@@ -1,5 +1,3 @@
-> Example: https://github.com/emberjs/rfcs
-
 # FeatureFlagger RFCs
 
 Many changes, including bug fixes and documentation improvements can be
@@ -125,7 +123,7 @@ Friday team meeting, and reported in [core team notes]. Every
 accepted feature should have a core team champion, who will represent
 the feature and its progress.
 
-**FeatureFlagger's RFC process owes its inspiration to the [Rust RFC process]**
+**FeatureFlagger's RFC process owes its inspiration to the [Ember RFC process]**
 
-[Rust RFC process]: https://github.com/rust-lang/rfcs
+[Ember RFC process]: https://github.com/emberjs/rfcs
 [core team]: https://github.com/orgs/FeatureFlagger/teams
